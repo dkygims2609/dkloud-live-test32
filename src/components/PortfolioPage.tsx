@@ -205,8 +205,8 @@ const PortfolioPage = () => {
                   <div className="prose prose-lg max-w-4xl mx-auto text-muted-foreground leading-relaxed">
                     <p className="mb-4">
                       Welcome to dKloud, a space where creativity meets technology. I am the founder, a passionate music composer 
-                      already working with established Music Director <strong>Arya Sharma</strong> and released multiple original 
-                      compositions with famous singers in Hindi and other regional languages, lyricist, and AI-driven design expert.
+                      already working with Established Music Director <strong>Arya Sharma</strong> and released multiple original 
+                      compositions with famous singers in hindi and other regional languages, lyricist, and AI-driven design expert.
                     </p>
                     <p className="mb-4">
                       My journey has been a fusion of traditional as guitarist, pianist, musician and writer artistry and cutting-edge 
